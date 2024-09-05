@@ -1,2 +1,2 @@
-# heathers_journa
+# heathers_journal
 Extension to change LJ's custom colors.
